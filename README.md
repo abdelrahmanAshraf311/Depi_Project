@@ -91,7 +91,7 @@ Depi_Project/
 
 ---
 
-## Features
+## App Features
 
 - Shorten a long URL into a compact `/:shortId`.
 - Redirect to the original URL via `GET /:shortId`.
