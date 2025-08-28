@@ -131,7 +131,7 @@ API_POST_URL=http://server:8001/url
 2. From the repo root:
 
 ```bash
-docker compose up --build
+docker compose-up --build
 ```
 
 3. Open the app:
