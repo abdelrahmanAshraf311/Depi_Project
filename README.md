@@ -6,7 +6,7 @@ git add --chmod=+x .\.git\hooks\pre-push
 
 ```
 
-# Depi_Project
+# Depi_Project_Manual
 
 A small monorepo that demonstrates a simple URL shortener with:
 
